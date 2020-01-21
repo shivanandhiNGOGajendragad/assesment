@@ -14,7 +14,7 @@ background-color:orange;
 </head>
 <body>
 
-<p>A form element is displayed  this:</p>
+
 
 <form action="home.html" method="get">
 	<table>
